@@ -1,4 +1,4 @@
-# Allan's Projects Overview
+# Projects Overview
 
 Welcome to my GitHub! Below is an overview of the various projects I've worked on and the skills I’ve developed along the way. You’ll find a collection of repositories that reflect my interests in software engineering, machine learning, mobile development, and more.
 
