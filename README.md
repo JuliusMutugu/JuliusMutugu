@@ -8,12 +8,12 @@ Welcome to my GitHub! Below is an overview of the various projects I've worked o
 
 Here are the key technologies and tools I have used in my projects:
 
-| ![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flutter_logo.svg/2560px-Flutter_logo.svg.png) | ![Federated Learning](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Federated_Learning_Logo.svg/1200px-Federated_Learning_Logo.svg.png) | ![Flet Logo](https://flet.dev/assets/logo.svg) |
+| ![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flutter_logo.svg/200px-Flutter_logo.svg.png) | ![Federated Learning](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Federated_Learning_Logo.svg/200px-Federated_Learning_Logo.svg.png) | ![Flet Logo](https://flet.dev/assets/logo.svg) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | Flutter                                                      | Federated Learning                                            | Flet                                                         |
-| ![Blockchain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Blockchain_Logo_2019.svg/600px-Blockchain_Logo_2019.svg.png) | ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Power_BI_Logo_2022.svg/800px-Power_BI_Logo_2022.svg.png) | ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MongoDB_Logo_2019.svg/600px-MongoDB_Logo_2019.svg.png) |
+| ![Blockchain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Blockchain_Logo_2019.svg/200px-Blockchain_Logo_2019.svg.png) | ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Power_BI_Logo_2022.svg/200px-Power_BI_Logo_2022.svg.png) | ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MongoDB_Logo_2019.svg/200px-MongoDB_Logo_2019.svg.png) |
 | Blockchain                                                  | Power BI                                                      | MongoDB                                                     |
-| ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png) | ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png) |   |
+| ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png) | ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/200px-JavaScript-logo.png) |   |
 | Python                                                      | JavaScript                                                    |                                                             |
 
 ---
