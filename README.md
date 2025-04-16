@@ -5,16 +5,22 @@ Welcome to my GitHub! Below is an overview of the various projects I've worked o
 ---
 
 ## Tech Stacks
-
 Here are the key technologies and tools I have used in my projects:
 
-| ![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flutter_logo.svg/200px-Flutter_logo.svg.png) | ![Federated Learning](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Federated_Learning_Logo.svg/200px-Federated_Learning_Logo.svg.png) | ![Flet Logo](https://flet.dev/assets/logo.svg) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Flutter                                                      | Federated Learning                                            | Flet                                                         |
-| ![Blockchain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Blockchain_Logo_2019.svg/200px-Blockchain_Logo_2019.svg.png) | ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Power_BI_Logo_2022.svg/200px-Power_BI_Logo_2022.svg.png) | ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MongoDB_Logo_2019.svg/200px-MongoDB_Logo_2019.svg.png) |
-| Blockchain                                                  | Power BI                                                      | MongoDB                                                     |
-| ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png) | ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/200px-JavaScript-logo.png) |   |
-| Python                                                      | JavaScript                                                    |                                                             |
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6dc4ef94-6a09-47ce-8acd-bbfd802bf174" width="40" height="32"><br>Vue.js</td>
+    <td><img src="https://github.com/user-attachments/assets/00b6e8fd-0cbf-4d06-8472-cba3cbef6692" width="40" height="32"><br>Flutter</td>
+    <td><img src="https://github.com/user-attachments/assets/fbc7a558-8309-4a67-9605-b73454f0631b" width="40" height="32"><br>Flask API</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ac272509-473a-466e-8442-e654df5a9dde" width="40" height="32"><br>MySQL</td>
+    <td><img src="https://github.com/user-attachments/assets/c1208024-fd07-48e8-a6cb-b8ee051751bd" width="40" height="32"><br>MongoDB</td>
+    <td><img src="https://github.com/user-attachments/assets/c0ef12d5-482b-402d-ae44-73769898a71f" width="40" height="32"><br>Power BI</td>
+  </tr>
+  
+</table>
+
 
 ---
 
@@ -67,7 +73,7 @@ Feel free to explore and contribute to my repositories!
 ## Contact
 
 - GitHub: [NdegwaJulius](https://github.com/NdegwaJulius)
-- Email: [Your Email]  
-- LinkedIn: [Your LinkedIn Profile]  
+- Email: ndegwajulius239@gmail.com 
+- LinkedIn: https://ke.linkedin.com/in/julius-mutugu-a3483b279  
 
 ---
