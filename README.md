@@ -9,18 +9,21 @@ Here are the key technologies and tools I have used in my projects:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6dc4ef94-6a09-47ce-8acd-bbfd802bf174" width="40" height="32"><br>Vue.js</td>
-    <td><img src="https://github.com/user-attachments/assets/00b6e8fd-0cbf-4d06-8472-cba3cbef6692" width="40" height="32"><br>Flutter</td>
-    <td><img src="https://github.com/user-attachments/assets/fbc7a558-8309-4a67-9605-b73454f0631b" width="40" height="32"><br>Flask API</td>
+    <td><img src="https://github.com/user-attachments/assets/6dc4ef94-6a09-47ce-8acd-bbfd802bf174" width="50"><br>js</td>
+    <td><img src="https://github.com/user-attachments/assets/00b6e8fd-0cbf-4d06-8472-cba3cbef6692" width="50"><br>flutterimage</td>
+    <td><img src="https://github.com/user-attachments/assets/fbc7a558-8309-4a67-9605-b73454f0631b" width="50"><br>ptyhon</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ac272509-473a-466e-8442-e654df5a9dde" width="40" height="32"><br>MySQL</td>
-    <td><img src="https://github.com/user-attachments/assets/c1208024-fd07-48e8-a6cb-b8ee051751bd" width="40" height="32"><br>MongoDB</td>
-    <td><img src="https://github.com/user-attachments/assets/c0ef12d5-482b-402d-ae44-73769898a71f" width="40" height="32"><br>Power BI</td>
+    <td><img src="https://github.com/user-attachments/assets/ac272509-473a-466e-8442-e654df5a9dde" width="50"><br>mysql</td>
+    <td><img src="https://github.com/user-attachments/assets/c1208024-fd07-48e8-a6cb-b8ee051751bd" width="50"><br>mongo</td>
+    <td><img src="https://github.com/user-attachments/assets/c0ef12d5-482b-402d-ae44-73769898a71f" width="50"><br>powerbi</td>
   </tr>
-  
+  <tr>
+    <td><img src="https://www.tensorflow.org/images/tf_logo.png" width="50"><br>tensorflow</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Java_logo.svg" width="50"><br>java</td>
+    <td><img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" width="50"><br>pytorch</td>
+  </tr>
 </table>
-
 
 ---
 
