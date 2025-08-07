@@ -13,7 +13,6 @@
 ---
 
  Open to opportunities at new companies
-```
 ## ⚡ Tech Arsenal
 
 <div align="center">
