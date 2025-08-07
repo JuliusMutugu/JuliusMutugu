@@ -12,9 +12,8 @@
 
 ---
 
- Open to opportunities at FAANG companies
+ Open to opportunities at new companies
 ```
-
 ## ⚡ Tech Arsenal
 
 <div align="center">
@@ -53,8 +52,6 @@
 <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 
 </div>
-
-
 
 <div align="center">
 
