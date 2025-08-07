@@ -1,4 +1,4 @@
-# Julius Mutugu 🚀
+# Julius Mutugu N.
 ### AI & Software Engineer | Building the Future with Intelligence
 
 <div align="center">
